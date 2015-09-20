@@ -1,3 +1,3 @@
-# nes-chat-example
+# nes-chat
 
-Using hapijs/nes
+Chat using hapijs/nes
